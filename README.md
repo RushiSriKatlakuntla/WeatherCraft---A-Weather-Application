@@ -33,5 +33,5 @@ To run this project locally, follow these steps:
 
 
 ## Acknowledgements
-Special thanks to [OpenWeatherMap](https://openweathermap.org/) for providing the weather API used in this project, and [GeoDB Cities API] for their city search functionality.
+Special thanks to [OpenWeatherMap](https://openweathermap.org/) for providing the weather API used in this project, and GeoDB Cities API for their city search functionality.
 
